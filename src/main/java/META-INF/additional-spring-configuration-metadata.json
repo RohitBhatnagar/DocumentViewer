@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "devToken",
+    "type": "java.lang.String",
+    "description": "A description for 'devToken'"
+  },
+  {
+    "name": "app.devToken",
+    "type": "java.lang.String",
+    "description": "A description for 'app.devToken'"
+  },
+  {
+    "name": "app.devToken",
+    "type": "java.lang.String",
+    "description": "A description for 'app.devToken'"
+  },
+  {
+    "name": "app.devToken",
+    "type": "java.lang.String",
+    "description": "A description for 'app.devToken'"
+  },
+  {
+    "name": "app.downloadLocation",
+    "type": "java.lang.String",
+    "description": "A description for 'app.downloadLocation'"
+  },
+  {
+    "name": "app.devToken",
+    "type": "java.lang.String",
+    "description": "A description for 'app.devToken'"
+  },
+  {
+    "name": "app.devToken",
+    "type": "java.lang.String",
+    "description": "A description for 'app.devToken'"
+  }
+]}
